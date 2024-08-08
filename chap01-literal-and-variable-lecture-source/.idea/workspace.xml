@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d9f5091-443f-4916-b33b-34bcd919d756" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Hellin22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hellin22/chap01-literal-and-variable-lecture-source.git",
+    "accountId": "559b92f5-5551-4b0b-af78-9f78dafef3af"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j2Ixm47CrDy3xFLGh7tSpekece" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap01-literal-and-variable-lecture-source [:Application1.main()].executor": "Run",
+    "Gradle.chap01-literal-and-variable-lecture-source [:Application2.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/lecture/02_java/chap01-literal-and-variable-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.ohgiraffers.section05.typecasting.Application2">
+    <configuration name="com.ohgiraffers.section02.variable.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.variable.Application1" />
+      <module name="chap01-literal-and-variable-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section02.variable.Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.variable.Application2" />
+      <module name="chap01-literal-and-variable-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section02.variable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section04.overflow.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section04.overflow.Application1" />
+      <module name="chap01-literal-and-variable-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section04.overflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section05.typecasting.Application1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section05.typecasting.Application1" />
+      <module name="chap01-literal-and-variable-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section05.typecasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ohgiraffers.section05.typecasting.Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section05.typecasting.Application2" />
+      <module name="chap01-literal-and-variable-lecture-source.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ohgiraffers.section05.typecasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ohgiraffers.section05.typecasting.Application2" />
+        <item itemvalue="Application.com.ohgiraffers.section05.typecasting.Application1" />
+        <item itemvalue="Application.com.ohgiraffers.section04.overflow.Application1" />
+        <item itemvalue="Application.com.ohgiraffers.section02.variable.Application2" />
+        <item itemvalue="Application.com.ohgiraffers.section02.variable.Application1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d9f5091-443f-4916-b33b-34bcd919d756" name="Changes" comment="" />
+      <created>1720579005443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720579005443</updated>
+      <workItem from="1720579006497" duration="15387000" />
+      <workItem from="1720655757215" duration="2893000" />
+      <workItem from="1723087024059" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
